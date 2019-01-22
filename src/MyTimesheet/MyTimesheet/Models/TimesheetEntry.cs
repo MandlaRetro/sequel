@@ -7,6 +7,8 @@ namespace MyTimesheet.Models
 {
     public class TimesheetEntry
     {
+        //NORMALIZE HERE
+
         /*
            Name | Surname | Client | Project | Date | Time Started | Time ended | Duration | Description | Billable
            --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
